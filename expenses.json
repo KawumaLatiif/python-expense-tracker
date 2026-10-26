@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Monthly rent",
+        "category": "Housing",
+        "amount": 200000,
+        "date": "2026-10-01"
+    },
+    {
+        "description": "Groceries",
+        "category": "Food",
+        "amount": 85000,
+        "date": "2026-10-03"
+    },
+    {
+        "description": "Taxi fare",
+        "category": "Transport",
+        "amount": 25000,
+        "date": "2026-10-04"
+    },
+    {
+        "description": "Juice",
+        "category": "Food",
+        "amount": 20000.0,
+        "date": "2026-10-26"
+    },
+    {
+        "description": "Boda Money",
+        "category": "Transport",
+        "amount": 2000.0,
+        "date": "2026-10-26"
+    }
+]

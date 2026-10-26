@@ -1,0 +1,3 @@
+Monthly expense report
+Rent: UGX 200,000
+Food: UGX 85,000
